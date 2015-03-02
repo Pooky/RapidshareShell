@@ -1,1 +1,0 @@
-./Debug/main.o ./Debug/src_curlClient.o ./Debug/src_File.o ./Debug/src_Manager.o ./Debug/src_Rapidshare.o ./Debug/src_Folder.o ./Debug/include_Browser.o ./Debug/src_Buffer.o
